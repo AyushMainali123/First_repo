@@ -12,6 +12,6 @@
  3. OL list3
  4. OL list4
 
- [My freecodecamp] (https://www.freecodecamp.org/ayush_mainali)
+ [My freecodecamp](https://www.freecodecamp.org/ayush_mainali)
 
 
